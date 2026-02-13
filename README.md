@@ -40,9 +40,9 @@ The gates are implemented using mathematical modeling where primary gates functi
 
 ## Repository Contents
 
-* `ternary_logic.py`: Core Python library containing the gate definitions and truth table generators.
-* `simulations/`: Scripts demonstrating 2-input and 3-input gate behaviors.
-* `papers/`: Original research manuscripts detailing the theoretical derivations.
+* Core Python library containing the gate definitions and truth table generators.
+* Script demonstrating 2-input and 3-input gate behaviors.
+* Original research manuscript detailing the theoretical derivations.
 
 ## Universality & Applications
 
